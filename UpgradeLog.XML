@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="IPM">
+</Property><Property Name="Solution File" Value="D:\vien_share\Ung Dung\Ung Dung\IPM\IPM.sln">
+</Property><Property Name="User Options File" Value="D:\vien_share\Ung Dung\Ung Dung\IPM\IPM.suo">
+</Property><Property Name="Date" Value="Monday, September 28, 2015">
+</Property><Property Name="Time" Value="15:32 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="IPM.sln" Description="File successfully backed up as D:\vien_share\Ung Dung\Ung Dung\IPM\Backup\IPM.sln">
+</Event><Event ErrorLevel="0" Project="" Source="IPM.suo" Description="File successfully backed up as D:\vien_share\Ung Dung\Ung Dung\IPM\Backup\IPM.suo">
+</Event><Event ErrorLevel="0" Project="IPM" Source="IPM\IPM.csproj" Description="Project file successfully backed up as D:\vien_share\Ung Dung\Ung Dung\IPM\Backup\IPM\IPM.csproj">
+</Event><Event ErrorLevel="0" Project="IPM" Source="IPM\IncommingFile.cs" Description="File successfully backed up as D:\vien_share\Ung Dung\Ung Dung\IPM\Backup\IPM\IncommingFile.cs">
+</Event><Event ErrorLevel="0" Project="IPM" Source="IPM\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\vien_share\Ung Dung\Ung Dung\IPM\Backup\IPM\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="IPM" Source="IPM\IPM.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="IPM" Source="IPM\IPM.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="IPM.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="IPM.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="IPM" Source="IPM\IPM.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,5 @@
+D:\vien_share\Ung Dung\Ung Dung\IPM\IPM\bin\Debug\IPM.dll
+D:\vien_share\Ung Dung\Ung Dung\IPM\IPM\bin\Debug\IPM.pdb
+D:\vien_share\Ung Dung\Ung Dung\IPM\IPM\obj\Debug\ResolveAssemblyReference.cache
+D:\vien_share\Ung Dung\Ung Dung\IPM\IPM\obj\Debug\IPM.dll
+D:\vien_share\Ung Dung\Ung Dung\IPM\IPM\obj\Debug\IPM.pdb
